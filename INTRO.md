@@ -3,7 +3,7 @@ TRONWALLET is a secure open source P2P wallet and exchange for the first citizen
 
 Each token have one or more connectors to a network that hold balances of TWX, The TWX Token allow TronWalletMe users to connect into a hub that can execute instantly purchase tokens directly through a smart contract, at a price that is continuously recalculated to balance buy and sell volumes. 
 
-TWXE is the fork of the Bancor Protocol that evolved to run on TRON network. With the high TPS offered by TRON we are creating a truly autonomous decentralized p2p exchange.
+TWXE is a fork of the Bancor Protocol that evolved to run on TRON network. With the high TPS offered by TRON we are creating a truly autonomous decentralized p2p exchange.
 
 ## More info
 https://www.tronwallet.me/
