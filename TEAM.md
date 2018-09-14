@@ -5,7 +5,7 @@
 https://www.linkedin.com/in/dbuarque
 
 ## Bruno Campos
-### CTO
+CTO
 https://www.linkedin.com/in/brunocamposssa/
 
 ## Juan Pablo
