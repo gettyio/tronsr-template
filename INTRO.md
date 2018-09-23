@@ -16,15 +16,20 @@ https://github.com/gettyio/tronwallet-mobile
 
 ## Social Media
 Medium: https://medium.com/@tronwallet 
+
 Telegram: https://t.me/TronWalletMe 
+
 Twitter: https://twitter.com/TronWalletMe
+
 TronWallet Exchange: https://t.me/TronWalletExchange
+
 TronWallet Announcements: https://t.me/TronWalletNew
+
 
 ## Help Center
 https://help.tronwallet.me
 
-# The TronWalletMe Token (TWX)
+## The TronWalletMe Token (TWX)
 The TronWalletMe Team created the TWX token and it will be used inside the TronWalletMe Autonomous Exchange. TWX will enable token holders to swap tokens and run Dapps on top of TronWalletMe and its partners.
 
 TronWalletMe will allows users to connect into a hub that enables them to execute instant purchases of tokens directly through smart contracts, at a price that is continuously recalculated to balance buy and sell volumes. With the high TPS offered by TRON, we are creating a truly autonomous p2p exchange.
