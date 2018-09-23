@@ -16,10 +16,15 @@ https://github.com/gettyio/tronwallet-mobile
 
 ## Social Media
 Medium: https://medium.com/@tronwallet 
+
 Telegram: https://t.me/TronWalletMe 
+
 Twitter: https://twitter.com/TronWalletMe
+
 TronWallet Exchange: https://t.me/TronWalletExchange
+
 TronWallet Announcements: https://t.me/TronWalletNew
+
 
 ## Help Center
 https://help.tronwallet.me
