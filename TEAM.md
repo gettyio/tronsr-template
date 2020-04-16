@@ -8,9 +8,16 @@ https://www.linkedin.com/in/dbuarque
 ### CTO
 https://www.linkedin.com/in/brunocamposssa/
 
+## Misha Lederman
+### Director of Communications & Marketing
+https://linkedin.com/in/misha-lederman-6523729a
+
 ## Fabio Freire
 ### UI/UX Product Designer
 https://www.linkedin.com/in/fabiohfreire/
+
+## Dmytro Uhnivenko=
+### Graphic Designer & Marketing
 
 ## Marlon Gomes
 ### Lead Software Architect
