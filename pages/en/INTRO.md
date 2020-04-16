@@ -1,6 +1,6 @@
 # TronWallet
 
-TronWallet app is a simple, secure & decentralized p2p crypto wallet for Bitcoin (BTC), Ethereun (ETH), TRON (TRX) and other top tokens, coins and cryptocurrency assets. With over 180,000 downloads from 183 countries worldwide, TronWallet caters to a global audience of blockchain enthusiasts and cryptocurrency holders. The wallet is available in close to 30 different languages.
+TronWallet app is a simple, secure & decentralized p2p crypto wallet for Bitcoin (BTC), Ethereun (ETH), TRON (TRX) and other top tokens, coins and cryptocurrency assets. With over 196,000 downloads from 183 countries worldwide, TronWallet caters to a global audience of blockchain enthusiasts and cryptocurrency holders. The wallet is available in close to 30 different languages.
 
 TronWallet’s p2p decentralized app has a simple and intuitive user interface and is a highly secure portal into the world of blockchain, Bitcoin (BTC), TRON (TRX), and other top cryptocurrency coins and TRX-based tokens. With TronWallet, users can Send and Receive crypto without any fees, Swap between coins and tokens, use Smart Contracts and browse Decentralized Applications (Dapps).
 
