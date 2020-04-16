@@ -18,6 +18,7 @@ https://www.linkedin.com/in/fabiohfreire/
 
 ## Dmytro Uhnivenko
 ### Graphic Designer & Marketing
+http://linkedin.com/in/dmitry-ugnivenko-a042b5128
 
 ## Marlon Gomes
 ### Lead Software Architect
