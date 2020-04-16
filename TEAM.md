@@ -16,7 +16,7 @@ https://linkedin.com/in/misha-lederman-6523729a
 ### UI/UX Product Designer
 https://www.linkedin.com/in/fabiohfreire/
 
-## Dmytro Uhnivenko=
+## Dmytro Uhnivenko
 ### Graphic Designer & Marketing
 
 ## Marlon Gomes
