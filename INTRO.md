@@ -43,6 +43,7 @@ TronWallet support for p2p Bitcoin (BTC) uses SegWit technology, which means tra
 - TWX (TWX)
 - TRC10 Wallet
 - TRC20 Wallet
+- ERC20 Wallet
 - All TRX-based tokens
 
 ### Find TronWallet
