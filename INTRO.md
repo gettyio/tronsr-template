@@ -14,7 +14,7 @@ TronWallet enables you to exchange your Bitcoin (BTC), TRON (TRX) and other cryp
 
 TronWallet support for p2p Bitcoin (BTC) uses SegWit technology, which means transfer of coins are faster and more secure in the wallet.
 
-TronWallet Features:
+## TronWallet Features:
 * Full Privacy: No personal information is required, there is no login or sign up
 * The all-in-one wallet mobile app for blockchain and cryptocurrency
 * Industry-leading in-app support and help center
@@ -29,12 +29,12 @@ TronWallet Features:
 * Unlock the app and access all functionalities with safer security mechanism like Face ID and fingerprint
 * Support for multiple digital wallets within one user interface and built-in browser to explore the world of blockchain and dapps
 
-IMPORTANT NOTE REGARDING SECURITY AND PRIVACY:
+## IMPORTANT NOTE REGARDING SECURITY AND PRIVACY:
 * Your Private Key is stored encrypted on your smartphone. It is never shared or sent anywhere. Nobody at the TronWallet organization can access your private key.
 * NEVER ever share your 12-word seed phrase. Never!
 * We cannot recover your funds if you lose your private key or share it with someone else.
 
-TronWallet supports and is integrated with:
+## TronWallet supports and is integrated with:
 - Bitcoin (BTC) Wallet
 - Ethereum (ETH) Wallet
 - TRON (TRX) Wallet
@@ -45,22 +45,11 @@ TronWallet supports and is integrated with:
 - TRC20 Wallet
 - All TRX-based tokens
 
-Telegram: http://t.me/TronWalletMe
+## Find TronWallet
 
-## Website
-https://www.tronwallet.me
-
-## Social Media
-Medium: https://medium.com/@tronwallet 
-
-Telegram: https://t.me/TronWalletMe 
-
+Telegram: https://t.me/TronWalletMe
 Twitter: https://twitter.com/TronWalletMe
-
-TronWallet Exchange: https://t.me/TronWalletExchange
-
-TronWallet Announcements: https://t.me/TronWalletNew
-
-
-## Help Center
-http://support.tronwallet.me/
+Facebook: https://www.facebook.com/TronWallet/
+Instagram: https://www.instagram.com/tronwalletme/
+Medium: https://medium.com/tronwallet
+Help & Tutorials: https://support.tronwallet.me/hc/en-us
